@@ -1,5 +1,5 @@
 My Data Engineering Journey
-Ostad Data Engineering Bootcamp, ব্Batch 01 — October 2026, Work of all 6 months
+Ostad Data Engineering Bootcamp, Batch 01 — October 2026, Work of all 6 months
 
 ## Introduction
 I am Ayman Farhan Ayaan, I am a student of department of biomedical enginnering department of MIST.
