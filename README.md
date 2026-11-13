@@ -12,7 +12,7 @@ Main aim of this bootcamp to acquire industry ready skills
 | 2 | Git, GitHub, Python-starting| Ongoing|
 
 ## Platforms
-Python · Linux · Git
+Python · Linux · Git, Github
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/ayman-ayaan-655712319
